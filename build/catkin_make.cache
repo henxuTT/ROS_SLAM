@@ -1,0 +1,2 @@
+lidar_pkg:wpr_simulation
+-DCATKIN_DEVEL_PREFIX=/home/henxu/ROSProjects/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/henxu/ROSProjects/catkin_ws/install -G Unix Makefiles
