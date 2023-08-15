@@ -131,6 +131,9 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/henxu/ROSProjects/catkin_ws/build/gtest/cmake_install.cmake")
+  include("/home/henxu/ROSProjects/catkin_ws/build/imu_pkg/cmake_install.cmake")
+  include("/home/henxu/ROSProjects/catkin_ws/build/map_pkg/cmake_install.cmake")
+  include("/home/henxu/ROSProjects/catkin_ws/build/slam_pkg/cmake_install.cmake")
   include("/home/henxu/ROSProjects/catkin_ws/build/lidar_pkg/cmake_install.cmake")
   include("/home/henxu/ROSProjects/catkin_ws/build/wpr_simulation/cmake_install.cmake")
 

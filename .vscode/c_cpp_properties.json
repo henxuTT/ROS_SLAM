@@ -10,7 +10,8 @@
         "/home/henxu/ROSProjects/catkin_ws/src/lidar_pkg/include/**",
         "/home/henxu/one_liom/one_liom1/src/ONE_LIOM/include/**",
         "/home/henxu/ROSProjects/catkin_ws/src/wpr_simulation/include/**",
-        "/usr/include/**"
+        "/usr/include/**",
+        "/home/henxu/ROSProjects/catkin_ws/src/imu_pkg/include/**"
       ],
       "name": "ROS",
       "intelliSenseMode": "gcc-x64",

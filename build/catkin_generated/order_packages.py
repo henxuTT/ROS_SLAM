@@ -2,4 +2,4 @@
 source_root_dir = '/home/henxu/ROSProjects/catkin_ws/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/henxu/ROSProjects/catkin_ws/devel;/home/henxu/one_liom/one_liom1/devel;/opt/ros/noetic'.split(';') if '/home/henxu/ROSProjects/catkin_ws/devel;/home/henxu/one_liom/one_liom1/devel;/opt/ros/noetic' != '' else []
+underlay_workspaces = '/home/henxu/ROSProjects/ROS_P1/devel;/home/henxu/ROSProjects/catkin_ws/devel;/home/henxu/one_liom/one_liom1/devel;/opt/ros/noetic'.split(';') if '/home/henxu/ROSProjects/ROS_P1/devel;/home/henxu/ROSProjects/catkin_ws/devel;/home/henxu/one_liom/one_liom1/devel;/opt/ros/noetic' != '' else []
